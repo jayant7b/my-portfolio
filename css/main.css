@@ -1,0 +1,31 @@
+/* nNbB */
+body{
+    background-color: teal;
+    color: lightyellow;
+    margin: 0px;
+}
+
+.site-header{
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile{
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: #063131 2px 5px 5px;
+    align-self: center;
+}
+
+.site-txt{
+    margin: 10px;
+}
+
+.git-link{
+    color: white;
+    text-decoration-style: dashed;
+}
