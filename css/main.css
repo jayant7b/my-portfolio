@@ -17,16 +17,16 @@ body{
 }
 
 .profile{
-    margin-top: -30px;
-    margin-left: 5px;
+    margin-top: -3%;
+    margin-left: 0.5%;
     float: right;
-    width: 250px;
+    width: 25%;
     border-radius: 50%;
     box-shadow: #063131 2px 5px 5px;
     align-self: center;
 }
 .h1-txt{
-    padding-right: 300px;
+    padding-right: 10%;
 }
 .site-txt{
     margin: 10px;
@@ -48,7 +48,7 @@ body{
 }
 
 .skills{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: monospace;
     font-size: 20px;
-    margin-top: 80px;
+    margin-top: 8%;
 }
