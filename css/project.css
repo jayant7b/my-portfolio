@@ -1,5 +1,6 @@
 body{
-    background-color: teal;
+    /* background-color: teal; */
+    background-image: url('../images/lack.jpg');
     color: lightyellow;
     margin: 0px;
 }
@@ -7,7 +8,7 @@ body{
 .pg-title{
     text-align: center;
     padding-right: 40%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .project-list{
