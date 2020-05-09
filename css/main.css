@@ -6,7 +6,8 @@ body{
 }
 
 .site-header{
-    height: 100vh;
+    min-height: 90vh;
+    overflow:auto;
     font-family: monospace;
     display: flex;
     flex-direction: column;
@@ -15,12 +16,17 @@ body{
 }
 
 .profile{
-    width: 200px;
+    margin-top: -30px;
+    margin-left: 5px;
+    float: right;
+    width: 250px;
     border-radius: 50%;
     box-shadow: #063131 2px 5px 5px;
     align-self: center;
 }
-
+.h1-txt{
+    padding-right: 300px;
+}
 .site-txt{
     margin: 10px;
 }
@@ -28,4 +34,14 @@ body{
 .git-link{
     color: white;
     text-decoration-style: dashed;
+}
+.fa-3x{
+    color: white;
+    margin: 30px;
+}
+.ico{
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: white;
 }

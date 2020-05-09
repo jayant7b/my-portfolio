@@ -1,13 +1,18 @@
 body{
     background-color: teal;
     color: lightyellow;
-    margin: 20px;
+    margin: 0px;
 }
 
 .pg-title{
     text-align: center;
     padding-right: 40%;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.project-list{
+    margin: 50px;
+    margin-right: 20%;
 }
 
 .p-name{
