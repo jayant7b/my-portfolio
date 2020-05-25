@@ -1,3 +1,3 @@
 # my-portfolio
 
-[jayantb.netlify.app](jayantb.netlify.app)
+[jayantb.netlify.app](https://jayantb.netlify.app)
